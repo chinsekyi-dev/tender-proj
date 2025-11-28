@@ -1,0 +1,3611 @@
+{
+  "data": [
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 231,
+            "end": 254,
+            "url": "https://t.co/jvHEnrCPzg",
+            "expanded_url": "https://efaparty.eu/events/autumn-university-for-gender-equality",
+            "display_url": "efaparty.eu/events/autumn-…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1994005178660388864/L71b7sOf?format=jpg&name=orig",
+                "width": 1080,
+                "height": 1350
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1994005178660388864/L71b7sOf?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Autumn University for Gender Equality - European Free Alliance",
+            "description": "The European Political Party of Self-Determination",
+            "unwound_url": "https://efaparty.eu/events/autumn-university-for-gender-equality"
+          },
+          {
+            "start": 255,
+            "end": 278,
+            "url": "https://t.co/5XbUftQuIz",
+            "expanded_url": "https://x.com/EFAparty/status/1994005128148291882/photo/1",
+            "display_url": "pic.x.com/5XbUftQuIz",
+            "media_key": "3_1994004792385896448"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 68,
+            "end": 84,
+            "username": "NuevaCanariasBC",
+            "id": "1606071684"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 2,
+            "end": 18,
+            "probability": 0.6405,
+            "type": "Organization",
+            "normalized_text": "Autumn University"
+          },
+          {
+            "start": 46,
+            "end": 62,
+            "probability": 0.6694,
+            "type": "Organization",
+            "normalized_text": "EFA Women’s Forum"
+          },
+          {
+            "start": 130,
+            "end": 141,
+            "probability": 0.9637,
+            "type": "Place",
+            "normalized_text": "Gran Canaria"
+          }
+        ]
+      },
+      "created_at": "2025-11-27T11:27:24.000Z",
+      "text": "💜 Autumn University for Gender Equality!\n\nThe EFA Women’s Forum and @NuevaCanariasBC are organising a two-day training session in Gran Canaria to strengthen women’s political leadership.\n\n🔗 More information and registrations here: https://t.co/jvHEnrCPzg https://t.co/5XbUftQuIz",
+      "id": "1994005128148291882",
+      "edit_history_tweet_ids": [
+        "1994005128148291882"
+      ],
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 6,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "impression_count": 433
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 221,
+            "end": 244,
+            "url": "https://t.co/i6dQACNY78",
+            "expanded_url": "https://efaparty.eu/documents/transparency/tendering/",
+            "display_url": "efaparty.eu/documents/tran…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1993349511293329408/mQ7rDqWa?format=png&name=orig",
+                "width": 1200,
+                "height": 630
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1993349511293329408/mQ7rDqWa?format=png&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Tendering - European Free Alliance",
+            "description": "The European Political Party of Self-Determination",
+            "unwound_url": "https://efaparty.eu/documents/transparency/tendering/"
+          },
+          {
+            "start": 245,
+            "end": 268,
+            "url": "https://t.co/9PxIMKSQFg",
+            "expanded_url": "https://x.com/EFAparty/status/1993349460437438584/photo/1",
+            "display_url": "pic.x.com/9PxIMKSQFg",
+            "media_key": "3_1993258834329030657"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 59,
+            "end": 61,
+            "probability": 0.7444,
+            "type": "Organization",
+            "normalized_text": "EFA"
+          }
+        ]
+      },
+      "created_at": "2025-11-25T16:02:00.000Z",
+      "text": "📢 CALL FOR TENDERS! Deadline extended until December 9!  \n\nEFA is seeking to engage in a long-term partnership for Audit, Tax and Consulting Services to support the organization’s operational activities.  💼\n\n🔗Apply here: https://t.co/i6dQACNY78 https://t.co/9PxIMKSQFg",
+      "id": "1993349460437438584",
+      "edit_history_tweet_ids": [
+        "1993349460437438584"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 115
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 241,
+            "end": 264,
+            "url": "https://t.co/hhqy6llgy0",
+            "expanded_url": "https://x.com/EFAparty/status/1993273612414206046/photo/1",
+            "display_url": "pic.x.com/hhqy6llgy0",
+            "media_key": "3_1993270901815566336"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 46,
+            "end": 51,
+            "probability": 0.9495,
+            "type": "Place",
+            "normalized_text": "Europe"
+          }
+        ]
+      },
+      "created_at": "2025-11-25T11:00:37.000Z",
+      "text": "💜 Is gender-based violence still a problem in Europe in 2025? Of course, it is!\n\nWhile some try to undermine feminism and the impact of gender-based violence, we raise our voices louder than ever! \n\n✊ It’s time to end gender-based violence! https://t.co/hhqy6llgy0",
+      "id": "1993273612414206046",
+      "edit_history_tweet_ids": [
+        "1993273612414206046"
+      ],
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 0,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 381
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 248,
+            "end": 271,
+            "url": "https://t.co/AfUVEQrxdL",
+            "expanded_url": "https://efaparty.eu/news/council-of-europe-monitor-closely-minority-rights-in-bulgaria",
+            "display_url": "efaparty.eu/news/council-o…",
+            "status": 200,
+            "title": "EFA calls on the Council of Europe to continue closely monitoring minority rights in Bulgaria - European Free Alliance",
+            "description": "A reduction of international oversight of Bulgaria would undermine the credibility of the Council’s human rights protection system, as the country has failed to implement the decisions of the European Court of Human Rights It is time for the Council of Europe to step up its efforts in protecting minority rights in Bulgaria. On December…",
+            "unwound_url": "https://efaparty.eu/news/council-of-europe-monitor-closely-minority-rights-in-bulgaria"
+          },
+          {
+            "start": 272,
+            "end": 295,
+            "url": "https://t.co/O7n5PDhV2m",
+            "expanded_url": "https://x.com/EFAparty/status/1991462121616601157/photo/1",
+            "display_url": "pic.x.com/O7n5PDhV2m",
+            "media_key": "3_1991456941533491200"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 40,
+            "end": 50,
+            "username": "ECHR_CEDH",
+            "id": "1169233927"
+          },
+          {
+            "start": 133,
+            "end": 137,
+            "username": "coe",
+            "id": "24150634"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 3,
+            "end": 10,
+            "probability": 0.968,
+            "type": "Place",
+            "normalized_text": "Bulgaria"
+          },
+          {
+            "start": 171,
+            "end": 178,
+            "probability": 0.9714,
+            "type": "Place",
+            "normalized_text": "Bulgaria"
+          },
+          {
+            "start": 236,
+            "end": 241,
+            "probability": 0.4926,
+            "type": "Organization",
+            "normalized_text": "Rights"
+          }
+        ]
+      },
+      "created_at": "2025-11-20T11:02:24.000Z",
+      "text": "🇧🇬 Bulgaria has failed to implement the @ECHR_CEDH decisions regarding Macedonian minority rights.\n\nTo maintain its credibility, the @coe must continue to closely monitor Bulgaria until it complies with the European Convention on Human Rights.🔎\n\n🔗 https://t.co/AfUVEQrxdL https://t.co/O7n5PDhV2m",
+      "id": "1991462121616601157",
+      "edit_history_tweet_ids": [
+        "1991462121616601157"
+      ],
+      "public_metrics": {
+        "retweet_count": 36,
+        "reply_count": 7,
+        "like_count": 105,
+        "quote_count": 4,
+        "bookmark_count": 3,
+        "impression_count": 10625
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 254,
+            "end": 277,
+            "url": "https://t.co/i6dQACNY78",
+            "expanded_url": "https://efaparty.eu/documents/transparency/tendering/",
+            "display_url": "efaparty.eu/documents/tran…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1993349511293329408/mQ7rDqWa?format=png&name=orig",
+                "width": 1200,
+                "height": 630
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1993349511293329408/mQ7rDqWa?format=png&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Tendering - European Free Alliance",
+            "description": "The European Political Party of Self-Determination",
+            "unwound_url": "https://efaparty.eu/documents/transparency/tendering/"
+          },
+          {
+            "start": 278,
+            "end": 301,
+            "url": "https://t.co/ujIsDjUB88",
+            "expanded_url": "https://x.com/EFAparty/status/1991077192877387798/photo/1",
+            "display_url": "pic.x.com/ujIsDjUB88",
+            "media_key": "3_1991076801020317696"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 42,
+            "end": 44,
+            "probability": 0.7811,
+            "type": "Organization",
+            "normalized_text": "EFA"
+          }
+        ]
+      },
+      "created_at": "2025-11-19T09:32:49.000Z",
+      "text": "📢 CALL FOR TENDERS! Deadline extended!  \n\nEFA is seeking to engage in a long-term partnership for Interpretation Services. 🗣️\n\nTo help applicants draft the proposal, we included four different scenarios in the annex to the tender details.\n\n🔗 Apply here: https://t.co/i6dQACNY78 https://t.co/ujIsDjUB88",
+      "id": "1991077192877387798",
+      "edit_history_tweet_ids": [
+        "1991077192877387798"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 203
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 202,
+            "end": 225,
+            "url": "https://t.co/8z26oI98xC",
+            "expanded_url": "https://exterior.cat/entrevistes/oriol-cases-lextrema-dreta-es-el-cavall-de-troia-que-vol-carregar-se-el-projecte-europeu/",
+            "display_url": "exterior.cat/entrevistes/or…",
+            "status": 200,
+            "title": "Oriol Cases: “L’extrema dreta és el cavall de Troia que vol carregar-se el projecte europeu” - exterior",
+            "description": "En un moment en què Europa afronta reptes simultanis, des de l’ascens de l’extrema dreta fins a les tensions geopolítiques, la crisi climàtica i la redefinició del projecte europeu, l’Aliança [...]",
+            "unwound_url": "https://exterior.cat/entrevistes/oriol-cases-lextrema-dreta-es-el-cavall-de-troia-que-vol-carregar-se-el-projecte-europeu/"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 18,
+            "end": 20,
+            "probability": 0.6506,
+            "type": "Organization",
+            "normalized_text": "EFA"
+          },
+          {
+            "start": 40,
+            "end": 44,
+            "probability": 0.2945,
+            "type": "Other",
+            "normalized_text": "Oriol"
+          }
+        ]
+      },
+      "created_at": "2025-11-18T11:06:00.000Z",
+      "text": "📢 INTERVIEW\n\n🇪🇺🗣️ EFA Secretary General Oriol Cases: \"The far right is the Trojan horse that wants to bring down the European project\". \n\n🔗Full interview [in Catalan, with translation tool available]: \nhttps://t.co/8z26oI98xC",
+      "id": "1990738252840476932",
+      "edit_history_tweet_ids": [
+        "1990738252840476932"
+      ],
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 316
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 192,
+            "end": 215,
+            "url": "https://t.co/i6dQACNY78",
+            "expanded_url": "https://efaparty.eu/documents/transparency/tendering/",
+            "display_url": "efaparty.eu/documents/tran…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1993349511293329408/mQ7rDqWa?format=png&name=orig",
+                "width": 1200,
+                "height": 630
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1993349511293329408/mQ7rDqWa?format=png&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Tendering - European Free Alliance",
+            "description": "The European Political Party of Self-Determination",
+            "unwound_url": "https://efaparty.eu/documents/transparency/tendering/"
+          },
+          {
+            "start": 216,
+            "end": 239,
+            "url": "https://t.co/1HXVx3Nia8",
+            "expanded_url": "https://x.com/EFAparty/status/1990434403948847315/photo/1",
+            "display_url": "pic.x.com/1HXVx3Nia8",
+            "media_key": "3_1990434262969991168"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 44,
+            "end": 46,
+            "probability": 0.7327,
+            "type": "Organization",
+            "normalized_text": "EFA"
+          }
+        ]
+      },
+      "created_at": "2025-11-17T14:58:37.000Z",
+      "text": "📢 CALL FOR TENDERS! Deadline extended!  \n\n💼 EFA is seeking to engage in a long-term partnership for Audit, Tax and Consulting Services to support the organization’s operational activities. \n\n🔗https://t.co/i6dQACNY78 https://t.co/1HXVx3Nia8",
+      "id": "1990434403948847315",
+      "edit_history_tweet_ids": [
+        "1990434403948847315"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 170
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 238,
+            "end": 261,
+            "url": "https://t.co/UWweKjsFWQ",
+            "expanded_url": "https://en.ara.cat/politics/key-day-for-the-amnesty-the-advocate-general-of-the-cjeu-gives-his-opinion-the-law_1_5560068.html",
+            "display_url": "en.ara.cat/politics/key-d…",
+            "status": 200,
+            "title": "The Advocate General of the CJEU endorses much of the amnesty law and says it does not affect the EU's financial interests.",
+            "description": "The lawyer defends the measure's objective of social and political reconciliation, and denies the European Commission's argument that it constitutes a \"self-amnesty\".",
+            "unwound_url": "https://en.ara.cat/politics/key-day-for-the-amnesty-the-advocate-general-of-the-cjeu-gives-his-opinion-the-law_1_5560068.html"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 4,
+            "end": 7,
+            "probability": 0.643,
+            "type": "Organization",
+            "normalized_text": "CJEU"
+          }
+        ]
+      },
+      "created_at": "2025-11-13T14:12:31.000Z",
+      "text": "The CJEU’s Advocate General endorses the amnesty granted to Catalan independence leaders. A step forward for justice! ✊\n\nOnce again, justice reminds us that defending the right to self-determination is defending freedom and democracy!\n\n🔗 https://t.co/UWweKjsFWQ",
+      "id": "1988973252371472694",
+      "edit_history_tweet_ids": [
+        "1988973252371472694"
+      ],
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 0,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 224
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 281,
+            "end": 304,
+            "url": "https://t.co/OdqwtI2GMP",
+            "expanded_url": "https://x.com/EFAparty/status/1986388312731308111/photo/1",
+            "display_url": "pic.x.com/OdqwtI2GMP",
+            "media_key": "3_1986388308247662593"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 114,
+            "end": 117,
+            "username": "UN",
+            "id": "14159148"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 18,
+            "end": 24,
+            "probability": 0.9746,
+            "type": "Place",
+            "normalized_text": "Morocco"
+          },
+          {
+            "start": 50,
+            "end": 63,
+            "probability": 0.8231,
+            "type": "Place",
+            "normalized_text": "Western Sahara"
+          },
+          {
+            "start": 133,
+            "end": 139,
+            "probability": 0.9603,
+            "type": "Place",
+            "normalized_text": "Morocco"
+          },
+          {
+            "start": 186,
+            "end": 189,
+            "probability": 0.5352,
+            "type": "Place",
+            "normalized_text": "SADR"
+          },
+          {
+            "start": 242,
+            "end": 249,
+            "probability": 0.445,
+            "type": "Place",
+            "normalized_text": "Sahrawis"
+          }
+        ]
+      },
+      "created_at": "2025-11-06T11:00:53.000Z",
+      "text": "🇪🇭 50 years after Morocco’s illegal occupation of Western Sahara, we raise our voices for self-determination!\nThe @UN is considering Morocco's autonomy plan, which denies sovereignty to SADR. After so many years of violation of human rights, Sahrawis cannot give up on nationhood! https://t.co/OdqwtI2GMP",
+      "id": "1986388312731308111",
+      "edit_history_tweet_ids": [
+        "1986388312731308111"
+      ],
+      "public_metrics": {
+        "retweet_count": 22,
+        "reply_count": 1,
+        "like_count": 28,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 1344
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 277,
+            "end": 300,
+            "url": "https://t.co/NUY4E2iTTD",
+            "expanded_url": "https://x.com/EFAparty/status/1985667638471839956/photo/1",
+            "display_url": "pic.x.com/NUY4E2iTTD",
+            "media_key": "3_1985667632733761536"
+          },
+          {
+            "start": 277,
+            "end": 300,
+            "url": "https://t.co/NUY4E2iTTD",
+            "expanded_url": "https://x.com/EFAparty/status/1985667638471839956/photo/1",
+            "display_url": "pic.x.com/NUY4E2iTTD",
+            "media_key": "3_1985667632746450944"
+          },
+          {
+            "start": 277,
+            "end": 300,
+            "url": "https://t.co/NUY4E2iTTD",
+            "expanded_url": "https://x.com/EFAparty/status/1985667638471839956/photo/1",
+            "display_url": "pic.x.com/NUY4E2iTTD",
+            "media_key": "3_1985667632746364929"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 66,
+            "end": 81,
+            "username": "DianaRibaGiner",
+            "id": "3295882694"
+          },
+          {
+            "start": 164,
+            "end": 174,
+            "username": "FUEN_Info",
+            "id": "861314363948490752"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 0,
+            "end": 2,
+            "probability": 0.7747,
+            "type": "Organization",
+            "normalized_text": "EFA"
+          },
+          {
+            "start": 185,
+            "end": 187,
+            "probability": 0.7441,
+            "type": "Organization",
+            "normalized_text": "EFA"
+          },
+          {
+            "start": 218,
+            "end": 220,
+            "probability": 0.4882,
+            "type": "Organization",
+            "normalized_text": "SSW"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 22,
+            "end": 34,
+            "tag": "geoblocking"
+          }
+        ]
+      },
+      "created_at": "2025-11-04T11:17:11.000Z",
+      "text": "EFA stands for ending #geoblocking for audiovisual content 🎬\n\nMEP @DianaRibaGiner has long fought for equal access to culture across all European languages. At the @FUEN_Info Congress, EFA VP Anke Spoorendonk from the SSW reinforced this call!\n\nIt’s time to reopen the debate! https://t.co/NUY4E2iTTD",
+      "id": "1985667638471839956",
+      "edit_history_tweet_ids": [
+        "1985667638471839956"
+      ],
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 0,
+        "like_count": 6,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 408
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 255,
+            "end": 278,
+            "url": "https://t.co/6e8XF1pJuN",
+            "expanded_url": "https://content.efaparty.eu/news/free-democratic-european-serbia/",
+            "display_url": "content.efaparty.eu/news/free-demo…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1984549773165404161/9v5X7dD3?format=jpg&name=orig",
+                "width": 1600,
+                "height": 900
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1984549773165404161/9v5X7dD3?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "We want Serbia to be free, democratic and European - European Free Alliance",
+            "description": "One year ago, a wave of protests spread across Serbia after the roof of Novi Sad railway station collapsed, killing 16 people. Over the past year, citizens have peacefully called for justice, transparency, and genuine democracy. Instead of taking responsibility for the government’s negligence, President Aleksandar Vučić’s autocrat administration has responded with violence and repression,…",
+            "unwound_url": "https://efaparty.eu/news/free-democratic-european-serbia/"
+          },
+          {
+            "start": 279,
+            "end": 302,
+            "url": "https://t.co/k0vCsYdyzZ",
+            "expanded_url": "https://x.com/EFAparty/status/1984549725446816015/photo/1",
+            "display_url": "pic.x.com/k0vCsYdyzZ",
+            "media_key": "3_1984219751447506944"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 159,
+            "end": 173,
+            "username": "VOJVODINA_LSV",
+            "id": "296279237"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 48,
+            "end": 53,
+            "probability": 0.9483,
+            "type": "Place",
+            "normalized_text": "Serbia"
+          }
+        ]
+      },
+      "created_at": "2025-11-01T09:15:00.000Z",
+      "text": "✊One year ago, a wave of protests spread across Serbia calling for justice, transparency, and true democracy. \n\nOn this day, we share the vision of our member @VOJVODINA_LSV and their pursuit of a free, democratic, and European future! 🇪🇺\n\n🔗Read it here: https://t.co/6e8XF1pJuN https://t.co/k0vCsYdyzZ",
+      "id": "1984549725446816015",
+      "edit_history_tweet_ids": [
+        "1984549725446816015"
+      ],
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 244
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 224,
+            "end": 247,
+            "url": "https://t.co/wqO9XBbzxm",
+            "expanded_url": "https://content.efaparty.eu/wp-content/uploads/2025/10/Call-for-tenders_Audit_Tax_and_Consulting_Services_2025-1.pdf",
+            "display_url": "content.efaparty.eu/wp-content/upl…",
+            "status": 200,
+            "unwound_url": "https://content.efaparty.eu/wp-content/uploads/2025/10/Call-for-tenders_Audit_Tax_and_Consulting_Services_2025-1.pdf"
+          },
+          {
+            "start": 248,
+            "end": 271,
+            "url": "https://t.co/dOBf2GJO0m",
+            "expanded_url": "https://x.com/EFAparty/status/1984186955345911928/photo/1",
+            "display_url": "pic.x.com/dOBf2GJO0m",
+            "media_key": "3_1984186894259818496"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 40,
+            "end": 42,
+            "probability": 0.7802,
+            "type": "Organization",
+            "normalized_text": "EFA"
+          }
+        ]
+      },
+      "created_at": "2025-10-31T09:13:29.000Z",
+      "text": "📢 CALL FOR TENDERS! Deadline extended!\n\nEFA is seeking to engage in a long-term partnership for Audit, Tax and Consulting Services to support the organization’s operational activities. 💼\n\n📍 Apply until November 17th 2025!\n🔗 https://t.co/wqO9XBbzxm https://t.co/dOBf2GJO0m",
+      "id": "1984186955345911928",
+      "edit_history_tweet_ids": [
+        "1984186955345911928"
+      ],
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 162
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 270,
+            "end": 293,
+            "url": "https://t.co/Z2cUFKX6uX",
+            "expanded_url": "https://twitter.com/fnpfryslan/status/1983805128944615517",
+            "display_url": "x.com/fnpfryslan/sta…"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 128,
+            "end": 136,
+            "probability": 0.8636,
+            "type": "Place",
+            "normalized_text": "The Hague"
+          },
+          {
+            "start": 150,
+            "end": 155,
+            "probability": 0.8826,
+            "type": "Place",
+            "normalized_text": "Europe"
+          },
+          {
+            "start": 221,
+            "end": 223,
+            "probability": 0.7353,
+            "type": "Organization",
+            "normalized_text": "FNP"
+          },
+          {
+            "start": 244,
+            "end": 246,
+            "probability": 0.8385,
+            "type": "Organization",
+            "normalized_text": "EFA"
+          }
+        ]
+      },
+      "created_at": "2025-10-30T10:12:06.000Z",
+      "text": "Congrats to @FNP_Fryslan for a great first campaign in the Dutch elections, a first step to open the door to regional voices in The Hague ❤️💙\n\nAcross Europe, regional representation in national parliaments is common, and FNP’s partnership with EFA members proves it! 🇪🇺 https://t.co/Z2cUFKX6uX",
+      "id": "1983839319610794030",
+      "edit_history_tweet_ids": [
+        "1983839319610794030"
+      ],
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 380
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 255,
+            "end": 278,
+            "url": "https://t.co/D0BubMlwCs",
+            "expanded_url": "https://efaparty.eu/news/direct-regional-funding-is-the-cornerstone-of-eus-cohesion",
+            "display_url": "efaparty.eu/news/direct-re…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1983796728659648512/lDBAvVvA?format=jpg&name=orig",
+                "width": 1366,
+                "height": 768
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1983796728659648512/lDBAvVvA?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Direct regional funding is the cornerstone of EU’s cohesion - European Free Alliance",
+            "description": "The renationalisation of European funds proposed in the MFF 2028-2034 would increase the economic gap between peripheral regions and the already wealthier European capital cities The cohesion between EU regions is at risk. The EU Commission’s proposal for the 2028-2034 Multiannual Financial Framework (MFF) creates a new architecture for shared management built around the National…",
+            "unwound_url": "https://efaparty.eu/news/direct-regional-funding-is-the-cornerstone-of-eus-cohesion"
+          },
+          {
+            "start": 279,
+            "end": 302,
+            "url": "https://t.co/bwgHh11z2j",
+            "expanded_url": "https://x.com/EFAparty/status/1983796711685312521/photo/1",
+            "display_url": "pic.x.com/bwgHh11z2j",
+            "media_key": "3_1983796707251941376"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 16,
+            "end": 17,
+            "probability": 0.9553,
+            "type": "Place",
+            "normalized_text": "EU"
+          },
+          {
+            "start": 75,
+            "end": 80,
+            "probability": 0.9065,
+            "type": "Place",
+            "normalized_text": "Europe"
+          },
+          {
+            "start": 124,
+            "end": 126,
+            "probability": 0.7351,
+            "type": "Organization",
+            "normalized_text": "MFF"
+          },
+          {
+            "start": 198,
+            "end": 203,
+            "probability": 0.9347,
+            "type": "Place",
+            "normalized_text": "Europe"
+          }
+        ]
+      },
+      "created_at": "2025-10-30T07:22:47.000Z",
+      "text": "Renationalising EU funds = more inequality…\n\nDirect regional funding keeps Europe united, it’s the heart of cohesion 🇪🇺 The MFF must keep direct regional funding or risk widening the divide between Europe’s capitals and its periphery ‼️\n\nFull statement 👇\nhttps://t.co/D0BubMlwCs https://t.co/bwgHh11z2j",
+      "id": "1983796711685312521",
+      "edit_history_tweet_ids": [
+        "1983796711685312521"
+      ],
+      "public_metrics": {
+        "retweet_count": 8,
+        "reply_count": 0,
+        "like_count": 11,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 473
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 178,
+            "end": 201,
+            "url": "https://t.co/73Ih782EUr",
+            "expanded_url": "https://twitter.com/compromis/status/1983470111290757348",
+            "display_url": "x.com/compromis/stat…"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 11,
+            "end": 14,
+            "probability": 0.3876,
+            "type": "Organization",
+            "normalized_text": "DANA"
+          },
+          {
+            "start": 114,
+            "end": 130,
+            "probability": 0.6729,
+            "type": "Other",
+            "normalized_text": "Valencian Country"
+          },
+          {
+            "start": 151,
+            "end": 155,
+            "probability": 0.5296,
+            "type": "Other",
+            "normalized_text": "Mazón"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 10,
+            "end": 15,
+            "tag": "DANA"
+          }
+        ]
+      },
+      "created_at": "2025-10-29T10:51:42.000Z",
+      "text": "1 year of #DANA tragedy 🕯️\n\nA year has passed, but our hearts remain with the 227 victims and their families. The Valencian Country deserves answers…\n\nMazón must be accountable! https://t.co/73Ih782EUr",
+      "id": "1983486896404861022",
+      "edit_history_tweet_ids": [
+        "1983486896404861022"
+      ],
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 0,
+        "like_count": 7,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 361
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 105,
+            "end": 128,
+            "url": "https://t.co/0WWmWKhkgH",
+            "expanded_url": "https://twitter.com/EFAparty/status/1975869864259530994",
+            "display_url": "x.com/EFAparty/statu…"
+          }
+        ]
+      },
+      "created_at": "2025-10-21T14:49:20.000Z",
+      "text": "Interested in strengthening women's emancipation? 💜🚀\nDon't forget to register and guarantee your seat! 👇 https://t.co/0WWmWKhkgH",
+      "id": "1980647597275775462",
+      "edit_history_tweet_ids": [
+        "1980647597275775462"
+      ],
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 0,
+        "like_count": 9,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 647
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 243,
+            "end": 266,
+            "url": "https://t.co/gV0KPmfHeR",
+            "expanded_url": "https://bit.ly/47ycfgb",
+            "display_url": "bit.ly/47ycfgb",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1993349511293329408/mQ7rDqWa?format=png&name=orig",
+                "width": 1200,
+                "height": 630
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1993349511293329408/mQ7rDqWa?format=png&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Tendering - European Free Alliance",
+            "description": "The European Political Party of Self-Determination",
+            "unwound_url": "https://efaparty.eu/documents/transparency/tendering/"
+          },
+          {
+            "start": 267,
+            "end": 290,
+            "url": "https://t.co/ZL48bCaxMk",
+            "expanded_url": "https://x.com/EFAparty/status/1980219054700052667/photo/1",
+            "display_url": "pic.x.com/ZL48bCaxMk",
+            "media_key": "3_1980218951926710272"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 22,
+            "end": 24,
+            "probability": 0.8282,
+            "type": "Organization",
+            "normalized_text": "EFA"
+          }
+        ]
+      },
+      "created_at": "2025-10-20T10:26:27.000Z",
+      "text": "📢 CALL FOR TENDERS! \n\nEFA is seeking to engage in a long-term partnership in Translation and Interpreting services to support the organisation’s statutory meetings and the production of important documents 🗣️\n\n📍Apply until November 21st 2025\n🔗https://t.co/gV0KPmfHeR https://t.co/ZL48bCaxMk",
+      "id": "1980219054700052667",
+      "edit_history_tweet_ids": [
+        "1980219054700052667"
+      ],
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 281
+      }
+    },
+    {
+      "created_at": "2025-10-15T09:38:47.000Z",
+      "text": "EC talks about decentralisation, housing, transport and industry: wonderful in theory 🤯\n\nBut the 2028-2034 #EUBudget proposal moves to the opposite direction as centralisation grows + citizens struggle. We joined the @EA_CoR meeting and we all agree: these policies must change⚠️",
+      "id": "1978395119343571233",
+      "entities": {
+        "mentions": [
+          {
+            "start": 217,
+            "end": 224,
+            "username": "EA_CoR",
+            "id": "2894347295"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 0,
+            "end": 1,
+            "probability": 0.3725,
+            "type": "Organization",
+            "normalized_text": "EC"
+          },
+          {
+            "start": 108,
+            "end": 115,
+            "probability": 0.5997,
+            "type": "Place",
+            "normalized_text": "EUBudget"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 107,
+            "end": 116,
+            "tag": "EUBudget"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "1978395119343571233"
+      ],
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 0,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 224
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 276,
+            "end": 299,
+            "url": "https://t.co/HZqN0D1IQZ",
+            "expanded_url": "https://x.com/EFAparty/status/1978393886192988334/photo/1",
+            "display_url": "pic.x.com/HZqN0D1IQZ",
+            "media_key": "3_1978391875364020224"
+          },
+          {
+            "start": 276,
+            "end": 299,
+            "url": "https://t.co/HZqN0D1IQZ",
+            "expanded_url": "https://x.com/EFAparty/status/1978393886192988334/photo/1",
+            "display_url": "pic.x.com/HZqN0D1IQZ",
+            "media_key": "3_1978391875368230912"
+          },
+          {
+            "start": 276,
+            "end": 299,
+            "url": "https://t.co/HZqN0D1IQZ",
+            "expanded_url": "https://x.com/EFAparty/status/1978393886192988334/photo/1",
+            "display_url": "pic.x.com/HZqN0D1IQZ",
+            "media_key": "3_1978392100170334208"
+          },
+          {
+            "start": 276,
+            "end": 299,
+            "url": "https://t.co/HZqN0D1IQZ",
+            "expanded_url": "https://x.com/EFAparty/status/1978393886192988334/photo/1",
+            "display_url": "pic.x.com/HZqN0D1IQZ",
+            "media_key": "3_1978392393347969024"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 0,
+            "end": 2,
+            "probability": 0.6998,
+            "type": "Organization",
+            "normalized_text": "EFA"
+          },
+          {
+            "start": 16,
+            "end": 28,
+            "probability": 0.5574,
+            "type": "Other",
+            "normalized_text": "EURegionsWeek"
+          },
+          {
+            "start": 174,
+            "end": 175,
+            "probability": 0.9063,
+            "type": "Place",
+            "normalized_text": "EU"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 15,
+            "end": 29,
+            "tag": "EURegionsWeek"
+          }
+        ]
+      },
+      "created_at": "2025-10-15T09:33:53.000Z",
+      "text": "EFA joined the #EURegionsWeek, but the nice words that the Commission says are far from what they actually plan: while smaller and rural areas are showcased here, in reality EU funds keep flowing to states' capitals, leaving those regions and their people further behind\n\n1/2 https://t.co/HZqN0D1IQZ",
+      "id": "1978393886192988334",
+      "edit_history_tweet_ids": [
+        "1978393886192988334"
+      ],
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 1,
+        "like_count": 14,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "impression_count": 665
+      }
+    },
+    {
+      "created_at": "2025-10-13T14:59:43.000Z",
+      "text": "At EFA, we’re here to amplify those smaller voices in EU institutions and to bring issues like minority representation, autonomy, regional funds and language rights back to the table.\n\nBecause these topics must never be pushed aside! 💪",
+      "id": "1977751107217576256",
+      "edit_history_tweet_ids": [
+        "1977751107217576256"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 135
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 3,
+            "end": 5,
+            "probability": 0.7964,
+            "type": "Organization",
+            "normalized_text": "EFA"
+          },
+          {
+            "start": 54,
+            "end": 55,
+            "probability": 0.8544,
+            "type": "Place",
+            "normalized_text": "EU"
+          }
+        ]
+      }
+    },
+    {
+      "created_at": "2025-10-13T14:59:18.000Z",
+      "text": "Our experience from the last #EUElections24 shows that current EUPP regulations make big voices even louder, while smaller ones fade away or disappear completely.\n\n🎯 Result? Smaller parties struggle to be represented in the EU and regional communities are unrepresented.\n\n2/3",
+      "id": "1977751002091512195",
+      "edit_history_tweet_ids": [
+        "1977751002091512195"
+      ],
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 73
+      },
+      "entities": {
+        "annotations": [
+          {
+            "start": 30,
+            "end": 42,
+            "probability": 0.7412,
+            "type": "Other",
+            "normalized_text": "EUElections24"
+          },
+          {
+            "start": 63,
+            "end": 66,
+            "probability": 0.7223,
+            "type": "Other",
+            "normalized_text": "EUPP"
+          },
+          {
+            "start": 224,
+            "end": 225,
+            "probability": 0.9663,
+            "type": "Place",
+            "normalized_text": "EU"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 29,
+            "end": 43,
+            "tag": "EUElections24"
+          }
+        ]
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 200,
+            "end": 223,
+            "url": "https://t.co/YWxJb0ULjK",
+            "expanded_url": "https://x.com/EFAparty/status/1977750821023498661/photo/1",
+            "display_url": "pic.x.com/YWxJb0ULjK",
+            "media_key": "3_1977750526327398400"
+          },
+          {
+            "start": 200,
+            "end": 223,
+            "url": "https://t.co/YWxJb0ULjK",
+            "expanded_url": "https://x.com/EFAparty/status/1977750821023498661/photo/1",
+            "display_url": "pic.x.com/YWxJb0ULjK",
+            "media_key": "3_1977750526314823680"
+          },
+          {
+            "start": 200,
+            "end": 223,
+            "url": "https://t.co/YWxJb0ULjK",
+            "expanded_url": "https://x.com/EFAparty/status/1977750821023498661/photo/1",
+            "display_url": "pic.x.com/YWxJb0ULjK",
+            "media_key": "3_1977750583072141313"
+          },
+          {
+            "start": 200,
+            "end": 223,
+            "url": "https://t.co/YWxJb0ULjK",
+            "expanded_url": "https://x.com/EFAparty/status/1977750821023498661/photo/1",
+            "display_url": "pic.x.com/YWxJb0ULjK",
+            "media_key": "3_1977750526381928448"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 19,
+            "end": 33,
+            "username": "EUCssrMcGrath",
+            "id": "2805902511"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 117,
+            "end": 118,
+            "probability": 0.9315,
+            "type": "Place",
+            "normalized_text": "EU"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 89,
+            "end": 107,
+            "tag": "selfdetermination"
+          }
+        ]
+      },
+      "created_at": "2025-10-13T14:58:35.000Z",
+      "text": "We’re meeting with @EUCssrMcGrath’s cabinet this afternoon to defend fundamental rights, #selfdetermination and real EU democracy. Because equality and freedom must be for everyone.\n\nFollow the 🧵 1/3 https://t.co/YWxJb0ULjK",
+      "id": "1977750821023498661",
+      "edit_history_tweet_ids": [
+        "1977750821023498661"
+      ],
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 2,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 226
+      }
+    },
+    {
+      "created_at": "2025-10-13T14:56:14.000Z",
+      "text": "@EUCssrMcGrath @lorenalacalleA @efagroupep @DianaRibaGiner @VicentMarza @anamirandapaz @obloque @compromis @EFA_Youth @ealkartasuna @Esquerra_ERC At EFA, we’re here to amplify those smaller voices in EU institutions and to bring issues like minority representation, autonomy, regional funds and language rights back to the table.\n\nBecause these topics must never be pushed aside! 💪",
+      "id": "1977750229844640060",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 14,
+            "username": "EUCssrMcGrath",
+            "id": "2805902511"
+          },
+          {
+            "start": 15,
+            "end": 30,
+            "username": "lorenalacalleA",
+            "id": "873588006"
+          },
+          {
+            "start": 31,
+            "end": 42,
+            "username": "efagroupep",
+            "id": "1838920667229474816"
+          },
+          {
+            "start": 43,
+            "end": 58,
+            "username": "DianaRibaGiner",
+            "id": "3295882694"
+          },
+          {
+            "start": 59,
+            "end": 71,
+            "username": "VicentMarza",
+            "id": "217123650"
+          },
+          {
+            "start": 72,
+            "end": 86,
+            "username": "anamirandapaz",
+            "id": "460065842"
+          },
+          {
+            "start": 87,
+            "end": 95,
+            "username": "obloque",
+            "id": "155544328"
+          },
+          {
+            "start": 96,
+            "end": 106,
+            "username": "compromis",
+            "id": "148867925"
+          },
+          {
+            "start": 107,
+            "end": 117,
+            "username": "EFA_Youth",
+            "id": "479398392"
+          },
+          {
+            "start": 118,
+            "end": 131,
+            "username": "ealkartasuna",
+            "id": "185675039"
+          },
+          {
+            "start": 132,
+            "end": 145,
+            "username": "Esquerra_ERC",
+            "id": "84053338"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 149,
+            "end": 151,
+            "probability": 0.6387,
+            "type": "Organization",
+            "normalized_text": "EFA"
+          },
+          {
+            "start": 200,
+            "end": 201,
+            "probability": 0.8351,
+            "type": "Place",
+            "normalized_text": "EU"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "1977750229844640060"
+      ],
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 137
+      }
+    },
+    {
+      "created_at": "2025-10-13T14:55:12.000Z",
+      "text": "@EUCssrMcGrath @lorenalacalleA @efagroupep @DianaRibaGiner @VicentMarza @anamirandapaz @obloque @compromis @EFA_Youth @ealkartasuna @Esquerra_ERC Our experience from the last #EUElections24 shows that current EUPP regulations make big voices even louder, while smaller ones fade away or disappear completely.\n\n🎯 Result? Smaller parties struggle to be represented in the EU and regional communities are unrepresented.\n\n2/3",
+      "id": "1977749970099777712",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 14,
+            "username": "EUCssrMcGrath",
+            "id": "2805902511"
+          },
+          {
+            "start": 15,
+            "end": 30,
+            "username": "lorenalacalleA",
+            "id": "873588006"
+          },
+          {
+            "start": 31,
+            "end": 42,
+            "username": "efagroupep",
+            "id": "1838920667229474816"
+          },
+          {
+            "start": 43,
+            "end": 58,
+            "username": "DianaRibaGiner",
+            "id": "3295882694"
+          },
+          {
+            "start": 59,
+            "end": 71,
+            "username": "VicentMarza",
+            "id": "217123650"
+          },
+          {
+            "start": 72,
+            "end": 86,
+            "username": "anamirandapaz",
+            "id": "460065842"
+          },
+          {
+            "start": 87,
+            "end": 95,
+            "username": "obloque",
+            "id": "155544328"
+          },
+          {
+            "start": 96,
+            "end": 106,
+            "username": "compromis",
+            "id": "148867925"
+          },
+          {
+            "start": 107,
+            "end": 117,
+            "username": "EFA_Youth",
+            "id": "479398392"
+          },
+          {
+            "start": 118,
+            "end": 131,
+            "username": "ealkartasuna",
+            "id": "185675039"
+          },
+          {
+            "start": 132,
+            "end": 145,
+            "username": "Esquerra_ERC",
+            "id": "84053338"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 176,
+            "end": 188,
+            "probability": 0.4514,
+            "type": "Place",
+            "normalized_text": "EUElections24"
+          },
+          {
+            "start": 209,
+            "end": 212,
+            "probability": 0.4817,
+            "type": "Other",
+            "normalized_text": "EUPP"
+          },
+          {
+            "start": 370,
+            "end": 371,
+            "probability": 0.9621,
+            "type": "Place",
+            "normalized_text": "EU"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 175,
+            "end": 189,
+            "tag": "EUElections24"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "1977749970099777712"
+      ],
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 153
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 203,
+            "end": 226,
+            "url": "https://t.co/i6dQACNY78",
+            "expanded_url": "https://efaparty.eu/documents/transparency/tendering/",
+            "display_url": "efaparty.eu/documents/tran…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1993349511293329408/mQ7rDqWa?format=png&name=orig",
+                "width": 1200,
+                "height": 630
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1993349511293329408/mQ7rDqWa?format=png&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "Tendering - European Free Alliance",
+            "description": "The European Political Party of Self-Determination",
+            "unwound_url": "https://efaparty.eu/documents/transparency/tendering/"
+          },
+          {
+            "start": 227,
+            "end": 250,
+            "url": "https://t.co/Kb3WpfhhPV",
+            "expanded_url": "https://x.com/EFAparty/status/1977718962013024302/photo/1",
+            "display_url": "pic.x.com/Kb3WpfhhPV",
+            "media_key": "3_1977718774796038144"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 21,
+            "end": 23,
+            "probability": 0.8302,
+            "type": "Organization",
+            "normalized_text": "EFA"
+          }
+        ]
+      },
+      "created_at": "2025-10-13T12:51:59.000Z",
+      "text": "📢 CALL FOR TENDERS!\n\nEFA is seeking to engage in a long-term partnership for Audit, Tax and Consulting Services to support the organization’s operational activities. 💼\n\n📍 Apply until November 3rd 2025!\n🔗https://t.co/i6dQACNY78 https://t.co/Kb3WpfhhPV",
+      "id": "1977718962013024302",
+      "edit_history_tweet_ids": [
+        "1977718962013024302"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 261
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 238,
+            "end": 261,
+            "url": "https://t.co/QWqBx1pxb9",
+            "expanded_url": "https://x.com/EFAparty/status/1977680509519135159/photo/1",
+            "display_url": "pic.x.com/QWqBx1pxb9",
+            "media_key": "3_1977680218497110016"
+          },
+          {
+            "start": 238,
+            "end": 261,
+            "url": "https://t.co/QWqBx1pxb9",
+            "expanded_url": "https://x.com/EFAparty/status/1977680509519135159/photo/1",
+            "display_url": "pic.x.com/QWqBx1pxb9",
+            "media_key": "3_1977680218476122112"
+          },
+          {
+            "start": 238,
+            "end": 261,
+            "url": "https://t.co/QWqBx1pxb9",
+            "expanded_url": "https://x.com/EFAparty/status/1977680509519135159/photo/1",
+            "display_url": "pic.x.com/QWqBx1pxb9",
+            "media_key": "3_1977680218509774848"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 45,
+            "end": 60,
+            "username": "lorenalacalleA",
+            "id": "873588006"
+          },
+          {
+            "start": 117,
+            "end": 129,
+            "username": "Plaid_Cymru",
+            "id": "14411725"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 20,
+            "end": 24,
+            "probability": 0.5687,
+            "type": "Place",
+            "normalized_text": "Cymru"
+          },
+          {
+            "start": 31,
+            "end": 33,
+            "probability": 0.7455,
+            "type": "Organization",
+            "normalized_text": "EFA"
+          },
+          {
+            "start": 68,
+            "end": 78,
+            "probability": 0.4375,
+            "type": "Other",
+            "normalized_text": "Oriol Cases"
+          },
+          {
+            "start": 91,
+            "end": 93,
+            "probability": 0.6047,
+            "type": "Organization",
+            "normalized_text": "\nTh"
+          },
+          {
+            "start": 197,
+            "end": 198,
+            "probability": 0.9668,
+            "type": "Place",
+            "normalized_text": "e "
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 19,
+            "end": 25,
+            "tag": "Cymru"
+          }
+        ]
+      },
+      "created_at": "2025-10-13T10:19:11.000Z",
+      "text": "Amazing weekend in #Cymru with EFA President @lorenalacalleA and SG Oriol Cases! 🇪🇺🏴󠁧󠁢󠁷󠁬󠁳󠁿\n\nThe bond between EFA and @Plaid_Cymru is stronger than ever, as is also our solidarity with a nation whose place is in the EU! We want you back 💪 https://t.co/QWqBx1pxb9",
+      "id": "1977680509519135159",
+      "edit_history_tweet_ids": [
+        "1977680509519135159"
+      ],
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 6,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 373
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 281,
+            "end": 304,
+            "url": "https://t.co/xRHA90lXkm",
+            "expanded_url": "https://x.com/EFAparty/status/1976628895890993494/photo/1",
+            "display_url": "pic.x.com/xRHA90lXkm",
+            "media_key": "3_1976628890417111040"
+          },
+          {
+            "start": 281,
+            "end": 304,
+            "url": "https://t.co/xRHA90lXkm",
+            "expanded_url": "https://x.com/EFAparty/status/1976628895890993494/photo/1",
+            "display_url": "pic.x.com/xRHA90lXkm",
+            "media_key": "3_1976628890429685760"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 0,
+            "end": 12,
+            "username": "Plaid_Cymru",
+            "id": "14411725"
+          },
+          {
+            "start": 68,
+            "end": 83,
+            "username": "lorenalacalleA",
+            "id": "873588006"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 54,
+            "end": 56,
+            "probability": 0.7917,
+            "type": "Organization",
+            "normalized_text": "EFA"
+          },
+          {
+            "start": 106,
+            "end": 116,
+            "probability": 0.4003,
+            "type": "Person",
+            "normalized_text": "Oriol Cases"
+          },
+          {
+            "start": 125,
+            "end": 129,
+            "probability": 0.569,
+            "type": "Place",
+            "normalized_text": "Cymru"
+          },
+          {
+            "start": 161,
+            "end": 165,
+            "probability": 0.4782,
+            "type": "Organization",
+            "normalized_text": "Cymru"
+          },
+          {
+            "start": 187,
+            "end": 192,
+            "probability": 0.9488,
+            "type": "Place",
+            "normalized_text": "Europe"
+          },
+          {
+            "start": 198,
+            "end": 200,
+            "probability": 0.6412,
+            "type": "Organization",
+            "normalized_text": "EFA"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 160,
+            "end": 166,
+            "tag": "Cymru"
+          },
+          {
+            "start": 238,
+            "end": 256,
+            "tag": "selfdetermination"
+          }
+        ]
+      },
+      "created_at": "2025-10-10T12:40:27.000Z",
+      "text": "@Plaid_Cymru marks 100 years since its foundation! 🎉\n\nEFA President @lorenalacalleA and Secretary-General Oriol Cases are in Cymru to celebrate this milestone.\n#Cymru deserves a voice in Europe and EFA stands with them in their fight for #selfdetermination and democracy 🏴󠁧󠁢󠁷󠁬󠁳󠁿🇪🇺 https://t.co/xRHA90lXkm",
+      "id": "1976628895890993494",
+      "edit_history_tweet_ids": [
+        "1976628895890993494"
+      ],
+      "public_metrics": {
+        "retweet_count": 8,
+        "reply_count": 1,
+        "like_count": 17,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "impression_count": 1144
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 28,
+            "end": 51,
+            "url": "https://t.co/t4FP8ma6p3",
+            "expanded_url": "https://x.com/EFAparty/status/1976274232641454214/photo/1",
+            "display_url": "pic.x.com/t4FP8ma6p3",
+            "media_key": "3_1976274002835283968"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 7,
+            "end": 26,
+            "probability": 0.4588,
+            "type": "Other",
+            "normalized_text": "DiadadelPaisValencia"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 6,
+            "end": 27,
+            "tag": "DiadadelPaisValencia"
+          }
+        ]
+      },
+      "created_at": "2025-10-09T13:11:09.000Z",
+      "text": "Happy #DiadadelPaisValencia https://t.co/t4FP8ma6p3",
+      "id": "1976274232641454214",
+      "edit_history_tweet_ids": [
+        "1976274232641454214"
+      ],
+      "public_metrics": {
+        "retweet_count": 6,
+        "reply_count": 0,
+        "like_count": 33,
+        "quote_count": 1,
+        "bookmark_count": 1,
+        "impression_count": 1335
+      }
+    },
+    {
+      "created_at": "2025-10-09T12:05:55.000Z",
+      "text": "Don't worry, we've updated the bio 😉",
+      "id": "1976257819683721719",
+      "edit_history_tweet_ids": [
+        "1976257819683721719"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 6,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 929
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 185,
+            "end": 208,
+            "url": "https://t.co/4UodP4Q1xp",
+            "expanded_url": "https://bit.ly/3ISvJTk",
+            "display_url": "bit.ly/3ISvJTk",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1975869867233280000/f7OK7x9h?format=jpg&name=orig",
+                "width": 1200,
+                "height": 630
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1975869867233280000/f7OK7x9h?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "\"Empowered women. Empowered Nation\" - EFA Women's Forum - Registration form",
+            "description": "Please use this form to register for the EFA event \"Empowered Women. Empowered Nation: A conversation with Kurdish women on how women’s organization strengthens nation-building and offers an inspiring example for Europe\". To be held on Zoom video conference platform from 18h to 19h30 (CET) on the 6th of November.",
+            "unwound_url": "https://docs.google.com/forms/d/e/1FAIpQLSeY2-Ur-ieGpGuiyTExaRo9JAuj2XZsN5FdqY3EvvsJspHASw/viewform"
+          },
+          {
+            "start": 209,
+            "end": 232,
+            "url": "https://t.co/mqCFRSTCe5",
+            "expanded_url": "https://x.com/EFAparty/status/1975869864259530994/photo/1",
+            "display_url": "pic.x.com/mqCFRSTCe5",
+            "media_key": "3_1975869551708352512"
+          }
+        ]
+      },
+      "created_at": "2025-10-08T10:24:20.000Z",
+      "text": "Join us for an online conversation with Kurdish women to explore how women’s organisations can contribute to nation-building while strengthening women’s  emancipation 💜\n\nRegister here: https://t.co/4UodP4Q1xp https://t.co/mqCFRSTCe5",
+      "id": "1975869864259530994",
+      "edit_history_tweet_ids": [
+        "1975869864259530994"
+      ],
+      "public_metrics": {
+        "retweet_count": 10,
+        "reply_count": 0,
+        "like_count": 14,
+        "quote_count": 2,
+        "bookmark_count": 0,
+        "impression_count": 1569
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 277,
+            "end": 300,
+            "url": "https://t.co/0gd76vXcMq",
+            "expanded_url": "https://x.com/EFAparty/status/1973306330657230909/photo/1",
+            "display_url": "pic.x.com/0gd76vXcMq",
+            "media_key": "3_1973305999306919936"
+          },
+          {
+            "start": 277,
+            "end": 300,
+            "url": "https://t.co/0gd76vXcMq",
+            "expanded_url": "https://x.com/EFAparty/status/1973306330657230909/photo/1",
+            "display_url": "pic.x.com/0gd76vXcMq",
+            "media_key": "3_1973305999294337024"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 18,
+            "end": 33,
+            "username": "AsafogluCigdem",
+            "id": "1090588467011207168"
+          },
+          {
+            "start": 56,
+            "end": 67,
+            "username": "DebPartisi",
+            "id": "325403023"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 0,
+            "end": 2,
+            "probability": 0.8819,
+            "type": "Organization",
+            "normalized_text": "EFA"
+          },
+          {
+            "start": 105,
+            "end": 112,
+            "probability": 0.459,
+            "type": "Organization",
+            "normalized_text": "Assembly"
+          },
+          {
+            "start": 151,
+            "end": 156,
+            "probability": 0.9843,
+            "type": "Place",
+            "normalized_text": "Greece"
+          },
+          {
+            "start": 195,
+            "end": 197,
+            "probability": 0.8388,
+            "type": "Organization",
+            "normalized_text": "EFA"
+          },
+          {
+            "start": 267,
+            "end": 272,
+            "probability": 0.9672,
+            "type": "Place",
+            "normalized_text": "Europe"
+          }
+        ]
+      },
+      "created_at": "2025-10-01T08:37:46.000Z",
+      "text": "EFA congratulates @AsafogluCigdem on her re-election as @DebPartisi President during the party’s General Assembly on Sunday 🎉\n\nThe Turkish minority in Greece is well represented and can count on EFA’s support to defend their rights and ensure their voice is heard in Europe! 💪 https://t.co/0gd76vXcMq",
+      "id": "1973306330657230909",
+      "edit_history_tweet_ids": [
+        "1973306330657230909"
+      ],
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 0,
+        "like_count": 36,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 2440
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 279,
+            "end": 302,
+            "url": "https://t.co/OYHUE2IrXa",
+            "expanded_url": "https://x.com/EFAparty/status/1972969818958823747/photo/1",
+            "display_url": "pic.x.com/OYHUE2IrXa",
+            "media_key": "3_1972969095722090496"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 33,
+            "end": 49,
+            "username": "unionvaldotaine",
+            "id": "1367086886"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 16,
+            "end": 18,
+            "probability": 0.8765,
+            "type": "Organization",
+            "normalized_text": "EFA"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 252,
+            "end": 261,
+            "tag": "autonomy"
+          }
+        ]
+      },
+      "created_at": "2025-09-30T10:20:35.000Z",
+      "text": "We congratulate EFA member party @unionvaldotaine for their amazing result on the regional elections yesterday 🎉\n\nThey historic party won with a 32% majority, gaining 12 seats in the council and consolidating as the largest party. \n\nA clear choice for #autonomy and democracy! ✊ https://t.co/OYHUE2IrXa",
+      "id": "1972969818958823747",
+      "edit_history_tweet_ids": [
+        "1972969818958823747"
+      ],
+      "public_metrics": {
+        "retweet_count": 6,
+        "reply_count": 0,
+        "like_count": 13,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "impression_count": 472
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 279,
+            "end": 302,
+            "url": "https://t.co/QBunWt4kNT",
+            "expanded_url": "https://x.com/EFAparty/status/1971518386220990691/video/1",
+            "display_url": "pic.x.com/QBunWt4kNT",
+            "media_key": "13_1971518297058197504"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 9,
+            "end": 10,
+            "probability": 0.9765,
+            "type": "Place",
+            "normalized_text": "EU"
+          },
+          {
+            "start": 189,
+            "end": 191,
+            "probability": 0.5155,
+            "type": "Place",
+            "normalized_text": "EFA"
+          },
+          {
+            "start": 273,
+            "end": 274,
+            "probability": 0.9731,
+            "type": "Place",
+            "normalized_text": "EU"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 163,
+            "end": 184,
+            "tag": "europeanlanguagesday"
+          }
+        ]
+      },
+      "created_at": "2025-09-26T10:13:06.000Z",
+      "text": "🗣️🇪🇺 The EU is much more than its 24 official languages! That is precisely what makes us interesting! And all these languages shall be protected!\n\nToday marks the #europeanlanguagesday. In EFA, we celebrate linguistic diversity as the heartbeat of cultural identity of the EU! 💜 https://t.co/QBunWt4kNT",
+      "id": "1971518386220990691",
+      "edit_history_tweet_ids": [
+        "1971518386220990691"
+      ],
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 0,
+        "like_count": 9,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 541
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 187,
+            "end": 210,
+            "url": "https://t.co/905eo2vsiI",
+            "expanded_url": "https://shorturl.at/q1kf2",
+            "display_url": "shorturl.at/q1kf2",
+            "status": 200,
+            "title": "🖱️ Visit EFA's new website!",
+            "description": "This week, the European Free Alliance is proud to launch a new website. From now on, you can visit us at www.efaparty.eu. The redesigned site offers a modern look and has been built to improve the user experience, making it easier to discover who we are and what we stand for. A strategy for the Mediterranean, a long-overdue priority for the EU Climate change is 20% m ore severe in the Mediterranean than elsewhere in Europe. Every year, we witness its huge impact. Natural catastrophes occur more often,",
+            "unwound_url": "https://mailchi.mp/f908375201fb/efa-launches-website"
+          },
+          {
+            "start": 211,
+            "end": 234,
+            "url": "https://t.co/UX09FzJnR3",
+            "expanded_url": "https://x.com/EFAparty/status/1971134227984097744/photo/1",
+            "display_url": "pic.x.com/UX09FzJnR3",
+            "media_key": "3_1971133977839702016"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 0,
+            "end": 2,
+            "probability": 0.4886,
+            "type": "Organization",
+            "normalized_text": "EFA"
+          },
+          {
+            "start": 31,
+            "end": 33,
+            "probability": 0.8234,
+            "type": "Organization",
+            "normalized_text": "EFA"
+          },
+          {
+            "start": 71,
+            "end": 83,
+            "probability": 0.8714,
+            "type": "Place",
+            "normalized_text": "Mediterranean"
+          },
+          {
+            "start": 118,
+            "end": 119,
+            "probability": 0.971,
+            "type": "Place",
+            "normalized_text": "EU"
+          },
+          {
+            "start": 136,
+            "end": 144,
+            "probability": 0.9725,
+            "type": "Place",
+            "normalized_text": "Catalonia"
+          },
+          {
+            "start": 160,
+            "end": 165,
+            "probability": 0.9751,
+            "type": "Place",
+            "normalized_text": "Québec"
+          }
+        ]
+      },
+      "created_at": "2025-09-25T08:46:36.000Z",
+      "text": "EFA's Newsletter! 💜 \n\n🖱️ Visit EFA's new website!\n🌍 A strategy for the Mediterranean: a long-overdue priority for the EU\n📍 Our visit to Catalonia, our visit to Québec\n\nAnd much more...\n\n🔗https://t.co/905eo2vsiI https://t.co/UX09FzJnR3",
+      "id": "1971134227984097744",
+      "edit_history_tweet_ids": [
+        "1971134227984097744"
+      ],
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 0,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 236
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 273,
+            "end": 296,
+            "url": "https://t.co/Q9ydmkojVt",
+            "expanded_url": "https://x.com/EFAparty/status/1970389480700866910/photo/1",
+            "display_url": "pic.x.com/Q9ydmkojVt",
+            "media_key": "3_1970389471368536065"
+          },
+          {
+            "start": 273,
+            "end": 296,
+            "url": "https://t.co/Q9ydmkojVt",
+            "expanded_url": "https://x.com/EFAparty/status/1970389480700866910/photo/1",
+            "display_url": "pic.x.com/Q9ydmkojVt",
+            "media_key": "3_1970389471347531776"
+          },
+          {
+            "start": 273,
+            "end": 296,
+            "url": "https://t.co/Q9ydmkojVt",
+            "expanded_url": "https://x.com/EFAparty/status/1970389480700866910/photo/1",
+            "display_url": "pic.x.com/Q9ydmkojVt",
+            "media_key": "3_1970389471351726080"
+          },
+          {
+            "start": 273,
+            "end": 296,
+            "url": "https://t.co/Q9ydmkojVt",
+            "expanded_url": "https://x.com/EFAparty/status/1970389480700866910/photo/1",
+            "display_url": "pic.x.com/Q9ydmkojVt",
+            "media_key": "3_1970389471360077824"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 25,
+            "end": 40,
+            "username": "lorenalacalleA",
+            "id": "873588006"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 11,
+            "end": 13,
+            "probability": 0.793,
+            "type": "Organization",
+            "normalized_text": "EFA"
+          },
+          {
+            "start": 60,
+            "end": 62,
+            "probability": 0.7014,
+            "type": "Organization",
+            "normalized_text": "EFA"
+          },
+          {
+            "start": 75,
+            "end": 80,
+            "probability": 0.9894,
+            "type": "Place",
+            "normalized_text": "Quebec"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 74,
+            "end": 81,
+            "tag": "Quebec"
+          },
+          {
+            "start": 252,
+            "end": 270,
+            "tag": "selfdetermination"
+          }
+        ]
+      },
+      "created_at": "2025-09-23T07:27:14.000Z",
+      "text": "Last week, EFA President @lorenalacalleA travelled with the EFA Family to #Quebec  🌍✊\n\nWe exchanged ideas, debated and proved that the fight for self-determination is shared across borders.\n\nThe energy of the youth gives us hope: there is a future for #selfdetermination 💜 https://t.co/Q9ydmkojVt",
+      "id": "1970389480700866910",
+      "edit_history_tweet_ids": [
+        "1970389480700866910"
+      ],
+      "public_metrics": {
+        "retweet_count": 3,
+        "reply_count": 0,
+        "like_count": 7,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 290
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 24,
+            "end": 47,
+            "url": "https://t.co/X5YyAgS4js",
+            "expanded_url": "https://twitter.com/EFAparty/status/1968963033058742287",
+            "display_url": "x.com/EFAparty/statu…"
+          }
+        ]
+      },
+      "created_at": "2025-09-19T09:28:39.000Z",
+      "text": "Nvm, we figured it out. https://t.co/X5YyAgS4js",
+      "id": "1968970484273365496",
+      "edit_history_tweet_ids": [
+        "1968970484273365496"
+      ],
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 477
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 34,
+            "end": 57,
+            "url": "https://t.co/3nCHmw0425",
+            "expanded_url": "https://x.com/EFAparty/status/1968963033058742287/photo/1",
+            "display_url": "pic.x.com/3nCHmw0425",
+            "media_key": "3_1968963028717629440"
+          }
+        ]
+      },
+      "created_at": "2025-09-19T08:59:03.000Z",
+      "text": "How do we fit this in our header? https://t.co/3nCHmw0425",
+      "id": "1968963033058742287",
+      "edit_history_tweet_ids": [
+        "1968963033058742287"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 1,
+        "quote_count": 1,
+        "bookmark_count": 0,
+        "impression_count": 726
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 91,
+            "end": 114,
+            "url": "https://t.co/2fyuJwEipk",
+            "expanded_url": "https://x.com/EFAparty/status/1966415609274524077/video/1",
+            "display_url": "pic.x.com/2fyuJwEipk",
+            "media_key": "13_1966415295981015040"
+          }
+        ]
+      },
+      "created_at": "2025-09-12T08:16:30.000Z",
+      "text": "Yes, we are very happy.\nBut you can only see it in 1 week.\n\nNEXT FRIDAY 19/9. STAY TUNED 💜 https://t.co/2fyuJwEipk",
+      "id": "1966415609274524077",
+      "edit_history_tweet_ids": [
+        "1966415609274524077"
+      ],
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 256
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 278,
+            "end": 301,
+            "url": "https://t.co/5RlDJflJjH",
+            "expanded_url": "https://x.com/EFAparty/status/1966076615785668791/photo/1",
+            "display_url": "pic.x.com/5RlDJflJjH",
+            "media_key": "3_1966076337447149568"
+          },
+          {
+            "start": 278,
+            "end": 301,
+            "url": "https://t.co/5RlDJflJjH",
+            "expanded_url": "https://x.com/EFAparty/status/1966076615785668791/photo/1",
+            "display_url": "pic.x.com/5RlDJflJjH",
+            "media_key": "3_1966076337480761344"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 0,
+            "end": 11,
+            "probability": 0.5501,
+            "type": "Other",
+            "normalized_text": "National Day"
+          },
+          {
+            "start": 16,
+            "end": 24,
+            "probability": 0.8222,
+            "type": "Place",
+            "normalized_text": "Catalonia"
+          },
+          {
+            "start": 148,
+            "end": 153,
+            "probability": 0.9371,
+            "type": "Place",
+            "normalized_text": "Europe"
+          },
+          {
+            "start": 268,
+            "end": 276,
+            "probability": 0.633,
+            "type": "Other",
+            "normalized_text": "Diada2025"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 267,
+            "end": 277,
+            "tag": "Diada2025"
+          }
+        ]
+      },
+      "created_at": "2025-09-11T09:49:27.000Z",
+      "text": "National Day of Catalonia 2025! 💛❤️\n\nToday we honour the people who defend their language, culture, and right to decide their future in a sovereign Europe 🇪🇺\n\nWe look to the future with hope, and we stand committed to the values of freedom, democracy, and dignity! \n\n#Diada2025 https://t.co/5RlDJflJjH",
+      "id": "1966076615785668791",
+      "edit_history_tweet_ids": [
+        "1966076615785668791"
+      ],
+      "public_metrics": {
+        "retweet_count": 8,
+        "reply_count": 1,
+        "like_count": 24,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 1120
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 268,
+            "end": 291,
+            "url": "https://t.co/rQUEZ0YSeR",
+            "expanded_url": "https://x.com/EFAparty/status/1966073165920219617/photo/1",
+            "display_url": "pic.x.com/rQUEZ0YSeR",
+            "media_key": "3_1966072820632367104"
+          },
+          {
+            "start": 268,
+            "end": 291,
+            "url": "https://t.co/rQUEZ0YSeR",
+            "expanded_url": "https://x.com/EFAparty/status/1966073165920219617/photo/1",
+            "display_url": "pic.x.com/rQUEZ0YSeR",
+            "media_key": "3_1966072820711981056"
+          },
+          {
+            "start": 268,
+            "end": 291,
+            "url": "https://t.co/rQUEZ0YSeR",
+            "expanded_url": "https://x.com/EFAparty/status/1966073165920219617/photo/1",
+            "display_url": "pic.x.com/rQUEZ0YSeR",
+            "media_key": "3_1966072820724609024"
+          },
+          {
+            "start": 268,
+            "end": 291,
+            "url": "https://t.co/rQUEZ0YSeR",
+            "expanded_url": "https://x.com/EFAparty/status/1966073165920219617/photo/1",
+            "display_url": "pic.x.com/rQUEZ0YSeR",
+            "media_key": "3_1966072820724600833"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 28,
+            "end": 41,
+            "username": "Esquerra_ERC",
+            "id": "84053338"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 13,
+            "end": 21,
+            "probability": 0.9649,
+            "type": "Place",
+            "normalized_text": "Barcelona"
+          },
+          {
+            "start": 181,
+            "end": 186,
+            "probability": 0.9536,
+            "type": "Place",
+            "normalized_text": "Europe"
+          },
+          {
+            "start": 259,
+            "end": 264,
+            "probability": 0.96,
+            "type": "Place",
+            "normalized_text": "Europe"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 84,
+            "end": 102,
+            "tag": "selfdetermination"
+          },
+          {
+            "start": 107,
+            "end": 116,
+            "tag": "feminism"
+          }
+        ]
+      },
+      "created_at": "2025-09-11T09:35:45.000Z",
+      "text": "Yesterday in Barcelona with @Esquerra_ERC we hosted a meaningful discussion on how  #selfdetermination and #feminism are intertwined, and why this approach is key for the future of Europe 🇪🇺 💜 \n\nThis is just the beginning: together, we are shaping tomorrow’s Europe ✊ https://t.co/rQUEZ0YSeR",
+      "id": "1966073165920219617",
+      "edit_history_tweet_ids": [
+        "1966073165920219617"
+      ],
+      "public_metrics": {
+        "retweet_count": 7,
+        "reply_count": 0,
+        "like_count": 14,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 524
+      }
+    },
+    {
+      "created_at": "2025-09-11T09:32:41.000Z",
+      "text": "RT @DianaRibaGiner: Avui reivindiquem la força d’un poble que defensa la seva llengua, cultura i dret a decidir el seu futur en una Europa…",
+      "id": "1966072396164546715",
+      "entities": {
+        "mentions": [
+          {
+            "start": 3,
+            "end": 18,
+            "username": "DianaRibaGiner",
+            "id": "3295882694"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "1966072396164546715"
+      ],
+      "public_metrics": {
+        "retweet_count": 21,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 110,
+            "end": 133,
+            "url": "https://t.co/DeZeZxVwqz",
+            "expanded_url": "https://www.greens-efa.eu/en/article/press/efa-meps-demand-stronger-eu-action-as-the-gaza-genocide-deepens-further",
+            "display_url": "greens-efa.eu/en/article/pre…",
+            "images": [
+              {
+                "url": "https://pbs.twimg.com/news_img/1968980442234642432/rVdTEnXU?format=jpg&name=orig",
+                "width": 1999,
+                "height": 1124
+              },
+              {
+                "url": "https://pbs.twimg.com/news_img/1968980442234642432/rVdTEnXU?format=jpg&name=150x150",
+                "width": 150,
+                "height": 150
+              }
+            ],
+            "status": 200,
+            "title": "EFA MEPs demand stronger EU action as the Gaza genocide deepens further",
+            "description": "Strasbourg, 10 September 2025 – Following President Von Der Leyen’s State of the Union address, the European Free Alliance Group (EFA) acknowledges the limited measures announced, including a fund for the reconstruction of Gaza.",
+            "unwound_url": "https://www.greens-efa.eu/en/article/press/efa-meps-demand-stronger-eu-action-as-the-gaza-genocide-deepens-further"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 3,
+            "end": 14,
+            "username": "efagroupep",
+            "id": "1838920667229474816"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 29,
+            "end": 31,
+            "probability": 0.6633,
+            "type": "Organization",
+            "normalized_text": "EFA"
+          },
+          {
+            "start": 62,
+            "end": 65,
+            "probability": 0.9765,
+            "type": "Place",
+            "normalized_text": "Gaza"
+          }
+        ]
+      },
+      "created_at": "2025-09-10T14:33:54.000Z",
+      "text": "RT @efagroupep: 🟣 Here’s our EFA statement on the genocide in Gaza.\n\n👇You can find the full statement here. \n\nhttps://t.co/DeZeZxVwqz https…",
+      "id": "1965785808897818862",
+      "edit_history_tweet_ids": [
+        "1965785808897818862"
+      ],
+      "public_metrics": {
+        "retweet_count": 4,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 0
+      }
+    },
+    {
+      "created_at": "2025-09-10T10:51:59.000Z",
+      "text": "@vonderleyen @DianaRibaGiner @Esquerra_ERC @Esquerra_INT @anamirandapaz @obloque @bngparlamento @VicentMarza @compromis @lorenalacalleA @efagroupep @ERC_dones @JoventInter The EC has just proposed a huge change to how EU funds are distributed, bypassing the regions and recentralising control.\n\nBut in her #StateOfTheUnion  @vonderleyen had nothing to say about this. Is this her message to the regions of Europe - that they do not matter?",
+      "id": "1965729965019898158",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 12,
+            "username": "vonderleyen",
+            "id": "1146329871418843136"
+          },
+          {
+            "start": 13,
+            "end": 28,
+            "username": "DianaRibaGiner",
+            "id": "3295882694"
+          },
+          {
+            "start": 29,
+            "end": 42,
+            "username": "Esquerra_ERC",
+            "id": "84053338"
+          },
+          {
+            "start": 43,
+            "end": 56,
+            "username": "Esquerra_INT",
+            "id": "574650664"
+          },
+          {
+            "start": 57,
+            "end": 71,
+            "username": "anamirandapaz",
+            "id": "460065842"
+          },
+          {
+            "start": 72,
+            "end": 80,
+            "username": "obloque",
+            "id": "155544328"
+          },
+          {
+            "start": 81,
+            "end": 95,
+            "username": "bngparlamento",
+            "id": "1331910220914765826"
+          },
+          {
+            "start": 96,
+            "end": 108,
+            "username": "VicentMarza",
+            "id": "217123650"
+          },
+          {
+            "start": 109,
+            "end": 119,
+            "username": "compromis",
+            "id": "148867925"
+          },
+          {
+            "start": 120,
+            "end": 135,
+            "username": "lorenalacalleA",
+            "id": "873588006"
+          },
+          {
+            "start": 136,
+            "end": 147,
+            "username": "efagroupep",
+            "id": "1838920667229474816"
+          },
+          {
+            "start": 148,
+            "end": 158,
+            "username": "ERC_dones",
+            "id": "545005759"
+          },
+          {
+            "start": 159,
+            "end": 171,
+            "username": "JoventInter",
+            "id": "576360077"
+          },
+          {
+            "start": 324,
+            "end": 336,
+            "username": "vonderleyen",
+            "id": "1146329871418843136"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 218,
+            "end": 219,
+            "probability": 0.8859,
+            "type": "Place",
+            "normalized_text": "EU"
+          },
+          {
+            "start": 406,
+            "end": 411,
+            "probability": 0.9544,
+            "type": "Place",
+            "normalized_text": "Europe"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 306,
+            "end": 322,
+            "tag": "StateOfTheUnion"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "1965729965019898158"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 124
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 352,
+            "end": 375,
+            "url": "https://t.co/zMfkQvyzJQ",
+            "expanded_url": "https://x.com/EFAparty/status/1965708336785142008/photo/1",
+            "display_url": "pic.x.com/zMfkQvyzJQ",
+            "media_key": "3_1965708088700231680"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 0,
+            "end": 12,
+            "username": "vonderleyen",
+            "id": "1146329871418843136"
+          },
+          {
+            "start": 13,
+            "end": 28,
+            "username": "DianaRibaGiner",
+            "id": "3295882694"
+          },
+          {
+            "start": 29,
+            "end": 42,
+            "username": "Esquerra_ERC",
+            "id": "84053338"
+          },
+          {
+            "start": 43,
+            "end": 56,
+            "username": "Esquerra_INT",
+            "id": "574650664"
+          },
+          {
+            "start": 57,
+            "end": 71,
+            "username": "anamirandapaz",
+            "id": "460065842"
+          },
+          {
+            "start": 72,
+            "end": 80,
+            "username": "obloque",
+            "id": "155544328"
+          },
+          {
+            "start": 81,
+            "end": 95,
+            "username": "bngparlamento",
+            "id": "1331910220914765826"
+          },
+          {
+            "start": 96,
+            "end": 108,
+            "username": "VicentMarza",
+            "id": "217123650"
+          },
+          {
+            "start": 109,
+            "end": 119,
+            "username": "compromis",
+            "id": "148867925"
+          },
+          {
+            "start": 120,
+            "end": 135,
+            "username": "lorenalacalleA",
+            "id": "873588006"
+          },
+          {
+            "start": 136,
+            "end": 147,
+            "username": "efagroupep",
+            "id": "1838920667229474816"
+          },
+          {
+            "start": 148,
+            "end": 158,
+            "username": "ERC_dones",
+            "id": "545005759"
+          },
+          {
+            "start": 159,
+            "end": 171,
+            "username": "JoventInter",
+            "id": "576360077"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 172,
+            "end": 174,
+            "probability": 0.4511,
+            "type": "Other",
+            "normalized_text": "VdL"
+          }
+        ]
+      },
+      "created_at": "2025-09-10T09:26:03.000Z",
+      "text": "@vonderleyen @DianaRibaGiner @Esquerra_ERC @Esquerra_INT @anamirandapaz @obloque @bngparlamento @VicentMarza @compromis @lorenalacalleA @efagroupep @ERC_dones @JoventInter VdL talks about holding those in power accountable. \n\nThat needs not only free media, but also politicians who adhere to ethical standards, no backroom deals through text message! https://t.co/zMfkQvyzJQ",
+      "id": "1965708336785142008",
+      "edit_history_tweet_ids": [
+        "1965708336785142008"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 151
+      }
+    },
+    {
+      "created_at": "2025-09-10T09:08:29.000Z",
+      "text": "@vonderleyen @DianaRibaGiner @Esquerra_ERC @Esquerra_INT @anamirandapaz @obloque @bngparlamento @VicentMarza @compromis @lorenalacalleA @efagroupep @ERC_dones @JoventInter The EC affordable housing plan is welcome, especially its willingness to address issues with short term rentals. \n\nBut we must not neglect to tackle the issue of housing speculation, which is driving prices out of reach for regular people.\nHousing is a right, not an asset 💸",
+      "id": "1965703916710232434",
+      "entities": {
+        "mentions": [
+          {
+            "start": 0,
+            "end": 12,
+            "username": "vonderleyen",
+            "id": "1146329871418843136"
+          },
+          {
+            "start": 13,
+            "end": 28,
+            "username": "DianaRibaGiner",
+            "id": "3295882694"
+          },
+          {
+            "start": 29,
+            "end": 42,
+            "username": "Esquerra_ERC",
+            "id": "84053338"
+          },
+          {
+            "start": 43,
+            "end": 56,
+            "username": "Esquerra_INT",
+            "id": "574650664"
+          },
+          {
+            "start": 57,
+            "end": 71,
+            "username": "anamirandapaz",
+            "id": "460065842"
+          },
+          {
+            "start": 72,
+            "end": 80,
+            "username": "obloque",
+            "id": "155544328"
+          },
+          {
+            "start": 81,
+            "end": 95,
+            "username": "bngparlamento",
+            "id": "1331910220914765826"
+          },
+          {
+            "start": 96,
+            "end": 108,
+            "username": "VicentMarza",
+            "id": "217123650"
+          },
+          {
+            "start": 109,
+            "end": 119,
+            "username": "compromis",
+            "id": "148867925"
+          },
+          {
+            "start": 120,
+            "end": 135,
+            "username": "lorenalacalleA",
+            "id": "873588006"
+          },
+          {
+            "start": 136,
+            "end": 147,
+            "username": "efagroupep",
+            "id": "1838920667229474816"
+          },
+          {
+            "start": 148,
+            "end": 158,
+            "username": "ERC_dones",
+            "id": "545005759"
+          },
+          {
+            "start": 159,
+            "end": 171,
+            "username": "JoventInter",
+            "id": "576360077"
+          }
+        ]
+      },
+      "edit_history_tweet_ids": [
+        "1965703916710232434"
+      ],
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 1,
+        "like_count": 5,
+        "quote_count": 0,
+        "bookmark_count": 1,
+        "impression_count": 219
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 286,
+            "end": 309,
+            "url": "https://t.co/0JIFlo2zhZ",
+            "expanded_url": "https://x.com/EFAparty/status/1965699914304045077/photo/1",
+            "display_url": "pic.x.com/0JIFlo2zhZ",
+            "media_key": "3_1965699697617559552"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 0,
+            "end": 12,
+            "username": "vonderleyen",
+            "id": "1146329871418843136"
+          },
+          {
+            "start": 13,
+            "end": 28,
+            "username": "DianaRibaGiner",
+            "id": "3295882694"
+          },
+          {
+            "start": 29,
+            "end": 42,
+            "username": "Esquerra_ERC",
+            "id": "84053338"
+          },
+          {
+            "start": 43,
+            "end": 56,
+            "username": "Esquerra_INT",
+            "id": "574650664"
+          },
+          {
+            "start": 57,
+            "end": 71,
+            "username": "anamirandapaz",
+            "id": "460065842"
+          },
+          {
+            "start": 72,
+            "end": 80,
+            "username": "obloque",
+            "id": "155544328"
+          },
+          {
+            "start": 81,
+            "end": 95,
+            "username": "bngparlamento",
+            "id": "1331910220914765826"
+          },
+          {
+            "start": 96,
+            "end": 108,
+            "username": "VicentMarza",
+            "id": "217123650"
+          },
+          {
+            "start": 109,
+            "end": 119,
+            "username": "compromis",
+            "id": "148867925"
+          },
+          {
+            "start": 120,
+            "end": 135,
+            "username": "lorenalacalleA",
+            "id": "873588006"
+          },
+          {
+            "start": 136,
+            "end": 147,
+            "username": "efagroupep",
+            "id": "1838920667229474816"
+          },
+          {
+            "start": 148,
+            "end": 158,
+            "username": "ERC_dones",
+            "id": "545005759"
+          },
+          {
+            "start": 159,
+            "end": 171,
+            "username": "JoventInter",
+            "id": "576360077"
+          },
+          {
+            "start": 249,
+            "end": 261,
+            "username": "vonderleyen",
+            "id": "1146329871418843136"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 197,
+            "end": 202,
+            "probability": 0.8946,
+            "type": "Place",
+            "normalized_text": "Europe"
+          }
+        ]
+      },
+      "created_at": "2025-09-10T08:52:35.000Z",
+      "text": "@vonderleyen @DianaRibaGiner @Esquerra_ERC @Esquerra_INT @anamirandapaz @obloque @bngparlamento @VicentMarza @compromis @lorenalacalleA @efagroupep @ERC_dones @JoventInter We also want to \"deliver Europe’s independence moments.\" When can we welcome @vonderleyen  as a new EFA member? 💜 https://t.co/0JIFlo2zhZ",
+      "id": "1965699914304045077",
+      "edit_history_tweet_ids": [
+        "1965699914304045077"
+      ],
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 197
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 450,
+            "end": 473,
+            "url": "https://t.co/nZ1PaKIXkI",
+            "expanded_url": "https://x.com/EFAparty/status/1965698916319690969/photo/1",
+            "display_url": "pic.x.com/nZ1PaKIXkI",
+            "media_key": "3_1965698729425465344"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 0,
+            "end": 12,
+            "username": "vonderleyen",
+            "id": "1146329871418843136"
+          },
+          {
+            "start": 13,
+            "end": 28,
+            "username": "DianaRibaGiner",
+            "id": "3295882694"
+          },
+          {
+            "start": 29,
+            "end": 42,
+            "username": "Esquerra_ERC",
+            "id": "84053338"
+          },
+          {
+            "start": 43,
+            "end": 56,
+            "username": "Esquerra_INT",
+            "id": "574650664"
+          },
+          {
+            "start": 57,
+            "end": 71,
+            "username": "anamirandapaz",
+            "id": "460065842"
+          },
+          {
+            "start": 72,
+            "end": 80,
+            "username": "obloque",
+            "id": "155544328"
+          },
+          {
+            "start": 81,
+            "end": 95,
+            "username": "bngparlamento",
+            "id": "1331910220914765826"
+          },
+          {
+            "start": 96,
+            "end": 108,
+            "username": "VicentMarza",
+            "id": "217123650"
+          },
+          {
+            "start": 109,
+            "end": 119,
+            "username": "compromis",
+            "id": "148867925"
+          },
+          {
+            "start": 120,
+            "end": 135,
+            "username": "lorenalacalleA",
+            "id": "873588006"
+          },
+          {
+            "start": 136,
+            "end": 147,
+            "username": "efagroupep",
+            "id": "1838920667229474816"
+          },
+          {
+            "start": 148,
+            "end": 158,
+            "username": "ERC_dones",
+            "id": "545005759"
+          },
+          {
+            "start": 159,
+            "end": 171,
+            "username": "JoventInter",
+            "id": "576360077"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 190,
+            "end": 192,
+            "probability": 0.7029,
+            "type": "Organization",
+            "normalized_text": "VdL"
+          },
+          {
+            "start": 297,
+            "end": 298,
+            "probability": 0.9431,
+            "type": "Place",
+            "normalized_text": "EU"
+          },
+          {
+            "start": 331,
+            "end": 332,
+            "probability": 0.3258,
+            "type": "Other",
+            "normalized_text": "EC"
+          },
+          {
+            "start": 397,
+            "end": 409,
+            "probability": 0.7694,
+            "type": "Place",
+            "normalized_text": "Mediterranean"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 209,
+            "end": 223,
+            "tag": "HousingCrisis"
+          }
+        ]
+      },
+      "created_at": "2025-09-10T08:48:37.000Z",
+      "text": "@vonderleyen @DianaRibaGiner @Esquerra_ERC @Esquerra_INT @anamirandapaz @obloque @bngparlamento @VicentMarza @compromis @lorenalacalleA @efagroupep @ERC_dones @JoventInter We celebrate that VdL recognises the #HousingCrisis, foreign industrial unfair competition, or climate change as some of the EU challenges. We want to see the EC closer to the most affected areas: rural regions, islands, the Mediterranean:  not deciding from a desk in Brussels https://t.co/nZ1PaKIXkI",
+      "id": "1965698916319690969",
+      "edit_history_tweet_ids": [
+        "1965698916319690969"
+      ],
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 2,
+        "like_count": 4,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 209
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 424,
+            "end": 447,
+            "url": "https://t.co/EyhSLC94RT",
+            "expanded_url": "https://x.com/EFAparty/status/1965696186826006757/photo/1",
+            "display_url": "pic.x.com/EyhSLC94RT",
+            "media_key": "3_1965695824878350336"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 0,
+            "end": 12,
+            "username": "vonderleyen",
+            "id": "1146329871418843136"
+          },
+          {
+            "start": 13,
+            "end": 28,
+            "username": "DianaRibaGiner",
+            "id": "3295882694"
+          },
+          {
+            "start": 29,
+            "end": 42,
+            "username": "Esquerra_ERC",
+            "id": "84053338"
+          },
+          {
+            "start": 43,
+            "end": 56,
+            "username": "Esquerra_INT",
+            "id": "574650664"
+          },
+          {
+            "start": 57,
+            "end": 71,
+            "username": "anamirandapaz",
+            "id": "460065842"
+          },
+          {
+            "start": 72,
+            "end": 80,
+            "username": "obloque",
+            "id": "155544328"
+          },
+          {
+            "start": 81,
+            "end": 95,
+            "username": "bngparlamento",
+            "id": "1331910220914765826"
+          },
+          {
+            "start": 96,
+            "end": 108,
+            "username": "VicentMarza",
+            "id": "217123650"
+          },
+          {
+            "start": 109,
+            "end": 119,
+            "username": "compromis",
+            "id": "148867925"
+          },
+          {
+            "start": 120,
+            "end": 135,
+            "username": "lorenalacalleA",
+            "id": "873588006"
+          },
+          {
+            "start": 136,
+            "end": 147,
+            "username": "efagroupep",
+            "id": "1838920667229474816"
+          },
+          {
+            "start": 192,
+            "end": 204,
+            "username": "vonderleyen",
+            "id": "1146329871418843136"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 226,
+            "end": 230,
+            "probability": 0.3914,
+            "type": "Place",
+            "normalized_text": "SOTEU"
+          },
+          {
+            "start": 332,
+            "end": 333,
+            "probability": 0.9712,
+            "type": "Place",
+            "normalized_text": "EU"
+          },
+          {
+            "start": 378,
+            "end": 385,
+            "probability": 0.4867,
+            "type": "Other",
+            "normalized_text": "Catalans"
+          }
+        ],
+        "hashtags": [
+          {
+            "start": 225,
+            "end": 231,
+            "tag": "SOTEU"
+          },
+          {
+            "start": 275,
+            "end": 293,
+            "tag": "selfdetermination"
+          }
+        ]
+      },
+      "created_at": "2025-09-10T08:37:46.000Z",
+      "text": "@vonderleyen @DianaRibaGiner @Esquerra_ERC @Esquerra_INT @anamirandapaz @obloque @bngparlamento @VicentMarza @compromis @lorenalacalleA @efagroupep \"Freedom to decide”, “freedom to vote” that @vonderleyen is defending in the #SOTEU is crucial for all European citizens: it’s #selfdetermination 🙃\n\nIf you recognise this, why did the EU still not adress the injustice against the Catalans who just wanted to vote and in 2017? https://t.co/EyhSLC94RT",
+      "id": "1965696186826006757",
+      "edit_history_tweet_ids": [
+        "1965696186826006757"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 157
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 359,
+            "end": 382,
+            "url": "https://t.co/zCj2YcBqtD",
+            "expanded_url": "https://x.com/EFAparty/status/1965691761264918984/photo/1",
+            "display_url": "pic.x.com/zCj2YcBqtD",
+            "media_key": "3_1965691375892017152"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 0,
+            "end": 12,
+            "username": "vonderleyen",
+            "id": "1146329871418843136"
+          },
+          {
+            "start": 13,
+            "end": 28,
+            "username": "DianaRibaGiner",
+            "id": "3295882694"
+          },
+          {
+            "start": 29,
+            "end": 42,
+            "username": "Esquerra_ERC",
+            "id": "84053338"
+          },
+          {
+            "start": 43,
+            "end": 56,
+            "username": "Esquerra_INT",
+            "id": "574650664"
+          },
+          {
+            "start": 57,
+            "end": 71,
+            "username": "anamirandapaz",
+            "id": "460065842"
+          },
+          {
+            "start": 72,
+            "end": 80,
+            "username": "obloque",
+            "id": "155544328"
+          },
+          {
+            "start": 81,
+            "end": 95,
+            "username": "bngparlamento",
+            "id": "1331910220914765826"
+          },
+          {
+            "start": 96,
+            "end": 108,
+            "username": "VicentMarza",
+            "id": "217123650"
+          },
+          {
+            "start": 109,
+            "end": 119,
+            "username": "compromis",
+            "id": "148867925"
+          },
+          {
+            "start": 120,
+            "end": 135,
+            "username": "lorenalacalleA",
+            "id": "873588006"
+          },
+          {
+            "start": 136,
+            "end": 147,
+            "username": "efagroupep",
+            "id": "1838920667229474816"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 293,
+            "end": 298,
+            "probability": 0.949,
+            "type": "Place",
+            "normalized_text": "Europe"
+          }
+        ]
+      },
+      "created_at": "2025-09-10T08:20:11.000Z",
+      "text": "@vonderleyen @DianaRibaGiner @Esquerra_ERC @Esquerra_INT @anamirandapaz @obloque @bngparlamento @VicentMarza @compromis @lorenalacalleA @efagroupep The right to have a collective identity is a right for all peoples!\n\nThis example strengthens our mission to defend all collective identities in Europe, also those that are threatened by European member states! https://t.co/zCj2YcBqtD",
+      "id": "1965691761264918984",
+      "edit_history_tweet_ids": [
+        "1965691761264918984"
+      ],
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 1,
+        "like_count": 2,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 160
+      }
+    },
+    {
+      "entities": {
+        "urls": [
+          {
+            "start": 433,
+            "end": 456,
+            "url": "https://t.co/Ig5Oz0FAGm",
+            "expanded_url": "https://x.com/EFAparty/status/1965690033115152437/photo/1",
+            "display_url": "pic.x.com/Ig5Oz0FAGm",
+            "media_key": "3_1965690020125106176"
+          }
+        ],
+        "mentions": [
+          {
+            "start": 0,
+            "end": 12,
+            "username": "vonderleyen",
+            "id": "1146329871418843136"
+          },
+          {
+            "start": 13,
+            "end": 28,
+            "username": "DianaRibaGiner",
+            "id": "3295882694"
+          },
+          {
+            "start": 29,
+            "end": 42,
+            "username": "Esquerra_ERC",
+            "id": "84053338"
+          },
+          {
+            "start": 43,
+            "end": 56,
+            "username": "Esquerra_INT",
+            "id": "574650664"
+          },
+          {
+            "start": 57,
+            "end": 71,
+            "username": "anamirandapaz",
+            "id": "460065842"
+          },
+          {
+            "start": 72,
+            "end": 80,
+            "username": "obloque",
+            "id": "155544328"
+          },
+          {
+            "start": 81,
+            "end": 95,
+            "username": "bngparlamento",
+            "id": "1331910220914765826"
+          },
+          {
+            "start": 96,
+            "end": 108,
+            "username": "VicentMarza",
+            "id": "217123650"
+          },
+          {
+            "start": 109,
+            "end": 119,
+            "username": "compromis",
+            "id": "148867925"
+          },
+          {
+            "start": 120,
+            "end": 135,
+            "username": "lorenalacalleA",
+            "id": "873588006"
+          },
+          {
+            "start": 136,
+            "end": 147,
+            "username": "efagroupep",
+            "id": "1838920667229474816"
+          },
+          {
+            "start": 254,
+            "end": 266,
+            "username": "vonderleyen",
+            "id": "1146329871418843136"
+          }
+        ],
+        "annotations": [
+          {
+            "start": 159,
+            "end": 163,
+            "probability": 0.7396,
+            "type": "Person",
+            "normalized_text": "Sacha"
+          },
+          {
+            "start": 171,
+            "end": 178,
+            "probability": 0.7964,
+            "type": "Person",
+            "normalized_text": "Liudmila"
+          },
+          {
+            "start": 367,
+            "end": 373,
+            "probability": 0.9605,
+            "type": "Place",
+            "normalized_text": "Ukraine"
+          }
+        ]
+      },
+      "created_at": "2025-09-10T08:13:19.000Z",
+      "text": "@vonderleyen @DianaRibaGiner @Esquerra_ERC @Esquerra_INT @anamirandapaz @obloque @bngparlamento @VicentMarza @compromis @lorenalacalleA @efagroupep Respect to Sacha &amp; Liudmila for their strength! War destroyed “forced to deny their identities”, said @vonderleyen. This is heartbreaking. \n\nAll Europeans have the right to protect their identities and independece. Ukraine is fighting for their independence. An inspiring example. https://t.co/Ig5Oz0FAGm",
+      "id": "1965690033115152437",
+      "edit_history_tweet_ids": [
+        "1965690033115152437"
+      ],
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 1,
+        "like_count": 3,
+        "quote_count": 0,
+        "bookmark_count": 0,
+        "impression_count": 154
+      }
+    }
+  ],
+  "meta": {
+    "next_token": "7140dibdnow9c7btw4e26bxx46ozbw0j0ucn4cpu51sfr",
+    "result_count": 50,
+    "newest_id": "1994005128148291882",
+    "oldest_id": "1965690033115152437"
+  }
+}

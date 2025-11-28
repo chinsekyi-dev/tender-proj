@@ -1,4 +1,7 @@
 requests
+requests-oauthlib
 beautifulsoup4
 selenium
 webdriver_manager
+black 
+isort
